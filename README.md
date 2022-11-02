@@ -29,8 +29,8 @@ npm start
 
 ----
 ### 预览图如下：
-![Pandao editor.md](https://raw.githubusercontent.com/whiskyma/node-template/public/images/1.jpg "Pandao editor.md")
+![Pandao editor.md](https://github.com/whiskyma/node-express-template/blob/main/public/images/1.jpg "Pandao editor.md")
 
-![Pandao editor.md](https://raw.githubusercontent.com/whiskyma/node-template/public/images/2.jpg "Pandao editor.md")
+![Pandao editor.md](https://github.com/whiskyma/node-express-template/blob/main/public/images/2.jpg "Pandao editor.md")
 
 ----
